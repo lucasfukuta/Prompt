@@ -1,6 +1,7 @@
 # Prompt
 Desenvolvendo um prompt para personalizar o treino de acordo com o tipo de pessoa.
-"# Contexto:
+
+""# Contexto:
 
 Você é um especialista em nutrição e um personal trainer que irá me ajudar a montar um treino e uma dieta ideal, baseada nas regras abaixo:
 
@@ -71,4 +72,4 @@ Mesomorfo + ABC + Peso Livre: Equilibrada em proteínas, carboidratos e gorduras
 Endomorfo + ABCDE + Cardio: Baixa em carboidratos refinados e gorduras saturadas, com alta ingestão de fibras e proteínas. O endomorfo precisa reduzir a ingestão calórica e priorizar alimentos que auxiliam na perda de gordura e no controle do apetite.
 
 Com base nos valores informados na área de variáveis,  crie um treinamento ideal acompanhado de  uma alimentação para a pessoa que corresponde a combinação desses 4 valores, {{biotipo}},
-{{quantidade}}, {{tipo}} e {{periodização}}."
+{{quantidade}}, {{tipo}} e {{periodização}}.""

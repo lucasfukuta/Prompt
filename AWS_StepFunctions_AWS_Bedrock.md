@@ -1,5 +1,8 @@
 # AWS Step Functions e AWS Bedrock
-![AWS Step Functions]
+![AWS Step Functions](https://d1.awsstatic.com/webteam/architecture-icons/Q22023/AWS-Step-Functions_64_SquidInk.png)
+
+![AWS Bedrock](https://exemplo.com/bedrock-logo.png)
+
 ## AWS Step Functions
 
 O **AWS Step Functions** é um serviço gerenciado pela Amazon Web Services (AWS) que permite orquestrar fluxos de trabalho distribuídos em várias aplicações e serviços da AWS. Ele usa o conceito de **máquinas de estado**, onde você define etapas lógicas que representam os diferentes estágios de um fluxo de trabalho. Cada etapa é um "estado" que pode realizar uma tarefa, como chamar uma função Lambda, invocar uma API, executar uma atividade humana, entre outras.

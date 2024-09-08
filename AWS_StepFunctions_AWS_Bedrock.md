@@ -1,7 +1,7 @@
 # AWS Step Functions e AWS Bedrock
 ![AWS Step Functions](https://d1.awsstatic.com/webteam/architecture-icons/Q22023/AWS-Step-Functions_64_SquidInk.png)
 
-![AWS Bedrock](https://exemplo.com/bedrock-logo.png)
+![AWS Bedrock](https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/poweredbyaws.png)
 
 ## AWS Step Functions
 
